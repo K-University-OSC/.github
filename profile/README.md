@@ -7,7 +7,7 @@
 
 ## 🛠 Key Projects
 * **service-market-sdk**: KELI 서비스 마켓(Service Market)과 연동하여 대학별 테넌트 자동 프로비저닝을 처리하는 웹훅 통합 SDK 및 테스트 시뮬레이터  
-* **AI Advisor**: RAG 파이프라인 챗봇 솔루션
+* **AI Advisor**: 문서 기반 질의응답이 가능한 오픈소스 AI 챗봇 시스템
 
 
 ---
