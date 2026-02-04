@@ -11,5 +11,5 @@
 
 
 ---
-**Contact:** aiedos@hallym.ac.kr
+**Contact:** aiedos@hallym.ac.kr  
 **Managed by:** Hallym University AI EdTech Center
